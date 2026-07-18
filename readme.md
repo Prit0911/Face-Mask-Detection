@@ -1,4 +1,4 @@
-# AI-Based Real-Time Face Mask Detection System
+# Face Mask Detection System
 
 ## Project Overview
 
