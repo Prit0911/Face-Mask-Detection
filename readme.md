@@ -304,8 +304,8 @@ python src/camera.py --image path/to/image.jpg
 **[Prit Gajjar]**
 AI/ML Engineer
 
-- GitHub: [https://github.com/your-username](https://github.com/Prit0911)
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/prit-gajjar-09d1104/)
+- GitHub: [https://github.com/Prit0911](https://github.com/Prit0911)
+- LinkedIn: [https://www.linkedin.com/in/prit-gajjar-09d1104](https://www.linkedin.com/in/prit-gajjar-09d1104/)
 - Email: `pritgajjar0911@gmail.com`
 
 ---
